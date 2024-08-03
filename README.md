@@ -13,7 +13,7 @@ This repository contains a dynamic and interactive sales dashboard created using
 - **Excel**: Data collection and initial analysis.
 
 ## Screenshots
-![Dashboard Visual](https://github.com/PriyanshuDupare/Madhav-Ecommerce-Store-Analysis/blob/main/Screenshot%20(939).png)
+![Dashboard Visual](https://github.com/NiGHTskY00/ecommerce_powerbi_dashboard/blob/main/Dashboard.png)
 
 ## Conclusion
 This Power BI dashboard provides a comprehensive overview of the sales performance of the Madhav E-commerce Store. It is a valuable tool for data analysts and business managers to monitor sales metrics, identify trends, and make informed decisions.
